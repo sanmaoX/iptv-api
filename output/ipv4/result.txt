@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-13 06:24:52,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-13 18:36:34,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -22,9 +22,11 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
@@ -60,6 +62,7 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -82,7 +85,6 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
-金鹰卡通,http://221.13.235.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎮游戏频道,#genre#
 
