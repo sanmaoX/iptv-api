@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sanmaoX/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-14 06:42:08
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-14 19:02:27
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -1044,6 +1044,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225700/2/index.
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-name="苍南新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/苍南新闻综合.png" group-title="☘️浙江频道",苍南新闻综合
 https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
@@ -1199,6 +1201,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225739/2/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="☘️天津频道",天津卫视
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-name="叙永综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叙永综合.png" group-title="☘️四川频道",叙永综合
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
